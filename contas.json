@@ -1,0 +1,12 @@
+[
+    {
+        "agencia": "0001",
+        "numero_conta": 1,
+        "usuario": {
+            "nome": "juan pablo dias de paula",
+            "data_nascimento": "17/10/2006",
+            "cpf": "77799933367",
+            "endereco": "casa"
+        }
+    }
+]
